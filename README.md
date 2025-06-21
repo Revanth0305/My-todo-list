@@ -1,36 +1,31 @@
-# 🔢 Modern Calculator
+# 📝 To-Do List Web App
 
-A sleek, responsive, and fully-functional **Web Calculator** built using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**. This calculator supports basic arithmetic operations, square, percentage, and includes a real-time **calculation history panel** and a **dark/light theme toggle**.
+A simple and elegant **To-Do List** web application built using **HTML**, **CSS**, and **Vanilla JavaScript**. This project helps users manage their tasks efficiently by allowing them to add, delete, and mark tasks as complete — all in a clean, user-friendly interface.
 
 ---
 
 ## 🚀 Features
 
-- ✅ Basic arithmetic operations: `+`, `−`, `×`, `÷`
-- 🧮 Advanced operations: `x²`, `%`
-- 🧠 Real-time secondary display for expression tracking
-- 💡 Light/Dark theme toggle
-- 📜 Scrollable calculation history
-- 💻 Responsive and mobile-friendly UI
-- 🎨 Smooth UI animations and elegant layout
+- ➕ Add new tasks
+- ✅ Mark tasks as completed
+- 🗑️ Delete individual tasks
+- 💾 Local storage support to retain tasks between sessions
+- 📱 Fully responsive design for mobile and desktop
+- ✨ Smooth animations and intuitive UI
 
 ---
 
 ## 🛠️ Built With
 
-- **HTML5**
-- **CSS3** with CSS Variables & Custom Styling
-- **JavaScript (Vanilla)**
-- **Bootstrap 5** for utility classes and layout
-- **SVG Icons** for theme toggling
+- **HTML5** – Structure of the web app
+- **CSS3** – Styling and layout
+- **JavaScript (Vanilla)** – Functionality and interactivity
 
 ---
 
-## 📂 Project Structure
+## 📂 Folder Structure
 
-📁 modern-calculator/
+📁 todo-list/
 ├── index.html # Main HTML file
-├── style.css # Custom styles
-├── script.js # Calculator logic
-
-
+├── style.css # Stylesheet
+└── script.js # JavaScript logic
